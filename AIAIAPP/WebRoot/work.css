@@ -1,0 +1,51 @@
+body{
+	height:500px;
+	}
+#header{
+		height:5%;
+		background-color:#CCC;
+		
+	}
+#context{
+		height:70%;
+		background-color:#FFF;
+		}
+#footer {
+	width:100%;
+	height:50px;
+	background-color:#000;
+}
+
+#footer button{
+	border-width:0px;
+	float:left;
+	border:1px #999 solid;
+	width:25%;
+	height:50px;
+	background-color: #000;
+	color:white;
+	font-weight: bold;
+	}
+.contextrow{
+	background-color:#690;
+	}
+#headertext{
+	padding-top:center;
+	text-align:center;
+	margin-left:50%;
+	height:100%;
+	width:20px;
+	color:#666;
+	background-color:#CCC;
+	text-align: center;
+	font-weight: bold;
+}
+
+ #refresh {
+	 height:100%;
+	 margin:inherit;
+	 float:right;
+	 background-color:#09C;
+	 border-width:0px;
+	 color:white;
+}

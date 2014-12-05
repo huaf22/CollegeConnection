@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="AIAIAPP"
+  id="myeclipse.1009822276031"
+  context-root="/AIAIAPP"
+  j2ee-spec="5.0"
+  archive="AIAIAPP.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
